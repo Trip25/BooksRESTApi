@@ -1,0 +1,45 @@
+[
+    {
+        "author":"Vegeta the Prince of all Saiyans",
+        "title":"How to be the best",
+        "firstName":"Vegeta",
+        "lastName":"Prince of all Saiyans",
+        "publishDate":"1999-10-20"
+    },
+    {
+        "author":"Kim Possible",
+        "title":"How to save the world",
+        "firstName":"Kim",
+        "lastName":"Possible",
+        "publishDate":"2002-06-01"
+    },
+    {
+        "author":"Severus Snape",
+        "title":"Potion making for beginners",
+        "firstName":"Severus",
+        "lastName":"Snape",
+        "publishDate":"1989-04-11"
+    },
+    {
+        "author": "Metabee",
+        "title": "My life as a medabot",
+        "firstName": "Metabee",
+        "lastName": "",
+        "publishDate": "2002-12-25"
+    },
+    {
+        "author": "Matt Ishida",
+        "title": "My partner Gabumon",
+        "firstName": "Matt",
+        "lastName": "Ishida",
+        "publishDate": "1999-03-06"
+
+    },
+    {
+        "author": "Gudetama",
+        "title": "A Guide to be lazy",
+        "firstName": "Gudetama",
+        "lastName": "",
+        "publishDate": "2023-04-01"
+    }
+]
